@@ -13,7 +13,6 @@ import os
 import sys
 from pathlib import Path
 
-from chromadb import app
 from dotenv import load_dotenv
 
 load_dotenv()
