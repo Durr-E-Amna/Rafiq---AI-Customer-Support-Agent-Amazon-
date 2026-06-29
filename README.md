@@ -1,8 +1,15 @@
 # Rafiq — AI Shopping & Support Agent
 
+
 An AI customer-support and shopping agent for e-commerce, combining **agentic RAG**, **tool-calling**, **multi-channel deployment** (CLI, web with voice, Telegram), and **systematic evaluation** (RAGAS + custom routing metrics) — built entirely on free-tier infrastructure, with zero paid dependencies anywhere in the stack.
 
 Modeled on real Amazon policies (returns, refunds, the A-to-Z Guarantee, cancellation rules) and a real Amazon product dataset for shopping queries. **Not affiliated with, endorsed by, or branded as Amazon** — an independent portfolio project built around real, publicly available policy and product data.
+
+PREVIEW
+<img width="1355" height="599" alt="image" src="https://github.com/user-attachments/assets/2ee4de97-c686-4695-9885-1ee1bc2e3248" />
+<img width="785" height="596" alt="image" src="https://github.com/user-attachments/assets/62432528-b915-4569-b434-74d5518f2c49" />
+<img width="765" height="589" alt="image" src="https://github.com/user-attachments/assets/e288d538-351e-40c1-a5b9-1a48867ba5fa" />
+![Rafiq demo](rafiq-preview.gif)
 
 ## What this demonstrates
 
@@ -140,5 +147,4 @@ Both are testable without live API calls via dependency-injected fakes (`scripts
 
 Code: MIT (see `LICENSE`). Product data: McAuley-Lab Amazon Reviews 2023, licensed CC BY-SA 4.0. Policy content is original writing modeled on Amazon's publicly documented policies, not copied text.
 
-PREVIEW
-<img width="1355" height="599" alt="image" src="https://github.com/user-attachments/assets/2ee4de97-c686-4695-9885-1ee1bc2e3248" />
+
