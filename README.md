@@ -139,3 +139,6 @@ Both are testable without live API calls via dependency-injected fakes (`scripts
 ## License & data attribution
 
 Code: MIT (see `LICENSE`). Product data: McAuley-Lab Amazon Reviews 2023, licensed CC BY-SA 4.0. Policy content is original writing modeled on Amazon's publicly documented policies, not copied text.
+
+PREVIEW
+<img width="1355" height="599" alt="image" src="https://github.com/user-attachments/assets/2ee4de97-c686-4695-9885-1ee1bc2e3248" />
