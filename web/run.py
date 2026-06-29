@@ -13,12 +13,14 @@ import os
 import sys
 from pathlib import Path
 
+from chromadb import app
 from dotenv import load_dotenv
 
 load_dotenv()
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
+from oauthlib.uri_validate import port
 import uvicorn
 
 from agent.llm_client import GroqClient
@@ -40,7 +42,8 @@ def main():
 
     print("Starting Rafiq web server at http://127.0.0.1:8000")
     print("Open it in Chrome for voice input support.\n")
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
 
 
 if __name__ == "__main__":
