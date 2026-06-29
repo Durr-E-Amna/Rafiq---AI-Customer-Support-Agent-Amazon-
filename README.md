@@ -9,7 +9,7 @@ PREVIEW
 <img width="1355" height="599" alt="image" src="https://github.com/user-attachments/assets/2ee4de97-c686-4695-9885-1ee1bc2e3248" />
 <img width="785" height="596" alt="image" src="https://github.com/user-attachments/assets/62432528-b915-4569-b434-74d5518f2c49" />
 <img width="765" height="589" alt="image" src="https://github.com/user-attachments/assets/e288d538-351e-40c1-a5b9-1a48867ba5fa" />
-![Rafiq demo](rafiq-preview.gif)
+![Rafiq demo](Rafiq-Preview.gif)
 
 ## What this demonstrates
 
