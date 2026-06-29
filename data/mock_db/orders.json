@@ -1,0 +1,68 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "item": "Wireless Earbuds",
+    "status": "out_for_delivery",
+    "payment_method": "card",
+    "amount": 25.00,
+    "placed_days_ago": 2,
+    "delivered_days_ago": null,
+    "last_status_update_days_ago": 0,
+    "failed_delivery_attempts": 0
+  },
+  {
+    "order_id": "ORD-1002",
+    "item": "Office Chair",
+    "status": "delivered",
+    "payment_method": "card",
+    "amount": 80.00,
+    "placed_days_ago": 6,
+    "delivered_days_ago": 4,
+    "last_status_update_days_ago": 4,
+    "failed_delivery_attempts": 0
+  },
+  {
+    "order_id": "ORD-1003",
+    "item": "Phone Case",
+    "status": "in_transit",
+    "payment_method": "stored_balance",
+    "amount": 15.00,
+    "placed_days_ago": 5,
+    "delivered_days_ago": null,
+    "last_status_update_days_ago": 4,
+    "failed_delivery_attempts": 0
+  },
+  {
+    "order_id": "ORD-1004",
+    "item": "Bluetooth Speaker",
+    "status": "processing",
+    "payment_method": "gift_card_balance",
+    "amount": 32.00,
+    "placed_days_ago": 1,
+    "delivered_days_ago": null,
+    "last_status_update_days_ago": 0,
+    "failed_delivery_attempts": 0
+  },
+  {
+    "order_id": "ORD-1005",
+    "item": "Laptop Computer",
+    "status": "delivered",
+    "payment_method": "card",
+    "amount": 1200.00,
+    "placed_days_ago": 23,
+    "delivered_days_ago": 20,
+    "last_status_update_days_ago": 20,
+    "failed_delivery_attempts": 0
+  },
+  {
+    "order_id": "ORD-1006",
+    "item": "Table Lamp",
+    "status": "delivery_failed",
+    "payment_method": "card",
+    "amount": 45.00,
+    "placed_days_ago": 9,
+    "delivered_days_ago": null,
+    "last_status_update_days_ago": 1,
+    "failed_delivery_attempts": 3
+  }
+]

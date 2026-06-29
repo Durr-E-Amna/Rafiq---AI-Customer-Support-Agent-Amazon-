@@ -1,0 +1,15 @@
+# Environment & secrets
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Generated data (rebuilt by scripts, shouldn't be committed)
+data/chroma_store/
+data/product_catalog/products.json
+eval/eval_results.csv
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
